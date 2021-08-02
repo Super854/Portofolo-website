@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display&display=swap");
+
+.home {
+  background-color: #808080;
+}
+/* .Start_Learning {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  width: 253px;
+  height: 78px;
+  cursor: pointer;
+  margin: 0 auto;
+  border: none;
+  font: normal 37px/70px "Big Shoulders Display", cursive;
+  color: white;
+  text-align: center;
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  letter-spacing: 1px;
+  background: #e8a700;
+  -webkit-transition: background-color 0.3s cubic-bezier(0, 0, 0, 0),
+    color 0.3s cubic-bezier(0, 0, 0, 0), width 0.3s cubic-bezier(0, 0, 0, 0),
+    border-width 0.3s cubic-bezier(0, 0, 0, 0),
+    border-color 0.3s cubic-bezier(0, 0, 0, 0);
+  -moz-transition: background-color 0.3s cubic-bezier(0, 0, 0, 0),
+    color 0.3s cubic-bezier(0, 0, 0, 0), width 0.3s cubic-bezier(0, 0, 0, 0),
+    border-width 0.3s cubic-bezier(0, 0, 0, 0),
+    border-color 0.3s cubic-bezier(0, 0, 0, 0);
+  -o-transition: background-color 0.3s cubic-bezier(0, 0, 0, 0),
+    color 0.3s cubic-bezier(0, 0, 0, 0), width 0.3s cubic-bezier(0, 0, 0, 0),
+    border-width 0.3s cubic-bezier(0, 0, 0, 0),
+    border-color 0.3s cubic-bezier(0, 0, 0, 0);
+  transition: background-color 0.3s cubic-bezier(0, 0, 0, 0),
+    color 0.3s cubic-bezier(0, 0, 0, 0), width 0.3s cubic-bezier(0, 0, 0, 0),
+    border-width 0.3s cubic-bezier(0, 0, 0, 0),
+    border-color 0.3s cubic-bezier(0, 0, 0, 0);
+}
+
+.Start_Learning:hover {
+  color: #e8a700;
+  background: white;
+} */
